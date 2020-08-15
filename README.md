@@ -38,6 +38,7 @@ You also have to `set slackWebhook and googleChatWebhook` to your webhooks.
  [Slack](https://slack.com/intl/en-in/help/articles/115005265063-Incoming-webhooks-for-Slack)          
  [Google chat](https://developers.google.com/hangouts/chat/quickstart/incoming-bot-node)
 ### Implications
-Forms are always tricky on static or only client-side applications. There are services provided by hosting websites like Netlify to store form responses,  but they charge you after certain number of submissions or after some limited time.
-The bot can be used to store form submissions for free no matter how my responses.
-It can also be used in various ways provided you're creative enough.
+One only needs to make a GET request to store information in the spreadsheet using this bot. A lot of tasks can be automated due to this reason. There's one use case I have for you.
+Forms are always tricky on static or only client-side applications. There are services provided by hosting websites like Netlify to store form responses,  but they charge you (a lot) after certain number of submissions or after some limited time.
+The bot can be used to store form submissions for free no matter how many responses.
+That was one.It can also be used in various ways provided you're creative enough.
