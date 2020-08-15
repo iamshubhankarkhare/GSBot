@@ -21,7 +21,7 @@
 * Close the Script editor window
 
 ### Usage
-Now all you have to do is make a `GET request` to the we app URL we saved before , with the data ( with the field names ) you wanna save.
+Now all you have to do is make a `GET request` to the we app URL we saved before , with the data ( with the field names )   you wanna save and the sheetName you wanna save them into.
 
 If you’re struggling to access parameters or properly pass data, try attaching them to the end of the url instead (Paste the URL in your web browser to test it out.):  
 
@@ -37,3 +37,7 @@ You also have to `set slackWebhook and googleChatWebhook` to your webhooks.
  **How to get webhooks :-**
  [Slack](https://slack.com/intl/en-in/help/articles/115005265063-Incoming-webhooks-for-Slack)          
  [Google chat](https://developers.google.com/hangouts/chat/quickstart/incoming-bot-node)
+### Implications
+Forms are always tricky on static or only client-side applications. There are services provided by hosting websites like Netlify to store form responses,  but they charge you after certain number of submissions or after some limited time.
+The bot can be used to store form submissions for free no matter how my responses.
+It can also be used in various ways provided you're creative enough.
