@@ -1,6 +1,6 @@
 ## GSBot
 
-**GSBot** is an [Apps Script](https://www.google.com/script/start/) powered [Google Spreadsheet](https://www.google.com/sheets/about/) **Bot** which can screate submissions in spreadsheets and send webhook notifications for [Hangouts Chat Rooms](https://gsuite.google.com/products/chat/) and  [Slack](https://slack.com/intl/en-in/).
+**GSBot** is an [Apps Script](https://www.google.com/script/start/) powered [Google Spreadsheet](https://www.google.com/sheets/about/) **Bot** which can create submissions in spreadsheets and send webhook notifications for [Hangouts Chat Rooms](https://gsuite.google.com/products/chat/) and  [Slack](https://slack.com/intl/en-in/).
 <br/>
 
 ## Getting Started
